@@ -76,7 +76,7 @@ qqline(model_residuals)
 # Autocorrelation
 durbinWatsonTest(mls_model)
 
-
+#comment
 # Multicollinearity
 vif(mls_model)
 
