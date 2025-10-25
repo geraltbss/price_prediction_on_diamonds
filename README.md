@@ -83,7 +83,7 @@ To address multicollinearity and improve generalization:
 - **Ridge Regression** – reduces coefficient variance.  
 - **LASSO Regression** – performs variable selection.  
 - **Elastic Net** – hybrid of Ridge and LASSO.  
-> 🔹 *Elastic Net achieved the lowest RMSE and highest R², making it the best linear regularized model.*
+> *Elastic Net achieved the lowest RMSE and highest R², making it the best linear regularized model.*
 
 ### **Random Forest Regression**  
 - Built with 500 trees using 80/20 train-test split.  
